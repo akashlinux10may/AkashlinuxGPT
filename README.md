@@ -2,7 +2,7 @@
 
 This project was inspired by the original privateGPT (https://github.com/imartinez/privateGPT) and LocalGPT (https://github.com/PromtEngineer/localGPT)
 
-In this model, I have replaced the Vicuna-7B model with Google 1flan T5 Xxl and we are using the InstructorEmbeddings instead of LlamaEmbeddings as used in the original privateGPT. Both Embeddings as well as LLM will run on GPU instead of CPU. It also has CPU support if you do not have a GPU (see below for instruction). 
+In this model, I have replaced the Vicuna-7B model with Google Flan T5 Xxl and we are using the InstructorEmbeddings instead of LlamaEmbeddings as used in the original privateGPT. Both Embeddings as well as LLM will run on GPU instead of CPU. It also has CPU support if you do not have a GPU (see below for instruction). 
 
 
 
