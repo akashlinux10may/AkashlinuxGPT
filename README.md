@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Test dataset
-This repo uses a [Constitution of USA ]appeal_tax(file is placed in github directory) as an example.
+This repo uses a [Constitution of USA ] as an example.
 
 ## Instructions for ingesting your own dataset
 
