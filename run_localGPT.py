@@ -12,7 +12,7 @@ import click
 from constants import CHROMA_SETTINGS
 
 import os
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "Your_HF_KEY"
 
 from langchain.embeddings import HuggingFaceEmbeddings
 
